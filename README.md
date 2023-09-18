@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TrueTruffle
 - 👀 I’m interested in Full stack
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning something new
 
 <!---
 TrueTruffle/TrueTruffle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
