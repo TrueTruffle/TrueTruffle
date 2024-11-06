@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TrueTruffle
-- 👀 I’m interested in Full stack
+- 👀 I’m interested in Deep Learning
 - 🌱 I’m currently learning something new
 
 <!---
